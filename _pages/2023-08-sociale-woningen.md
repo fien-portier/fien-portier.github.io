@@ -8,7 +8,12 @@ De bouw van sociale woningen is al decennialang een heikel punt in Vlaanderen. D
 De grafiek hieronder toont de verschuiving van het aandeel sociale woningen in alle Vlaamse steden en gemeentes over een tijdspanne van negen jaar. In 2012 was slechts 1,07 procent van alle woningen in het West-Vlaamse Oudenburg bestemd voor sociale huur. In 2021 was dat 4,14 procent. Daarmee is Oudenburg de sterkste stijger in Vlaanderen. Die cijfers steken desalniettemin mager af bij de 16,65 procent sociale woningen in Spiere-Helkijn aan de Franse grens.
 
 
-Klik [hier](https://datawrapper.dwcdn.net/1oSsE/1/) om de grafiek te bekijken.
+<!-- datawrapper embedding via iframe -->
+<iframe 
+  src="https://datawrapper.dwcdn.net/1oSsE/1/" 
+  width="100%" height="480" 
+  frameBorder="0">Browser not compatible.</iframe>
+
 
 In 2021 telde een Vlaamse gemeente gemiddeld xx procent sociale woningen, een stijging van xx procent ten opzichte van 2012. In absolute cijfers zijn dat xxx sociale woningen extra. Die stijging is marginaal wanneer we de cijfers van aantal kandidaat-sociale huurders er naast leggen. In diezelfde periode (van 2012 tot 2021) nam de wachtlijst voor een sociale woning toe met xx procent. Eind 2021 wachtten maar liefst 182.436 kandidaat-huurders op een sociale woning.
 <eventueel insert bol grafiek binnenin aantal sociale woningen - errond aantal kandidaat-huurders - nog bolletje schatting van mensen die recht hebben op een sociale woning>
@@ -22,7 +27,7 @@ Terwijl het aandeel sociale woningen amper wijzigde, werd de sociale nood het af
 * Klik hier om de animatie te bekijken (V.T.)
 * Klik hier om de animatie te bekijken (kandidaat huurders)
 
-<!-- test embedded animatie -->
+<!-- flourish embedded animatie -->
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/14700639"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
