@@ -4,20 +4,13 @@ title: Fien Portier Bio
 cover: /assets/img/cover.jpg
 ---
 
-# h1
-## h2
-Momenteel werk ik bij [Kazou](https://www.kazou.be)
+<!-- the {:style= "..." } suffix to the image can be replaced with {:.media-embed} as soon as this PR is accepted: 
+   | https://github.com/sighingnow/jekyll-gitbook/pull/92 in the remote theme we use.
+    -->
+![Fien Portier](/assets/img/fien-foto.jpeg){:style="width: 30%; max-width: 400px; float: right; border: 1px solid rgba(0,0,0,0.05); padding: 5px; border-radius:5px; margin: 5px;"} Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-![kazou logo](https://www.kazou.be/KazouWWW/Frontend/images/kazou-logo.png)
-
-![bloemetje](/assets/img/icon.png)
-
-
-
-> ##### link 
-> **naar** het [artikel](/pages/2023-08-sociale-woningen)
+> ##### Update: 
+> In augustus 2023 onderzocht ik als opdracht voor ... van de ... de toestand van de ... en de ... in Vlaanderen.  Daaruit volgde dit [onderzoeks-artikel](/pages/2023-08-sociale-woningen)
 {:.block-tip}
 
 ----
-__fien is leuk__
