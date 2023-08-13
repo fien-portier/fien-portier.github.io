@@ -9,10 +9,7 @@ De grafiek hieronder toont de verschuiving van het aandeel sociale woningen in a
 
 
 <!-- datawrapper embedding via iframe -->
-<iframe 
-  src="https://datawrapper.dwcdn.net/1oSsE/1/" 
-  width="100%" height="480" 
-  frameBorder="0">Browser not compatible.</iframe>
+<div style="min-height:386px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1oSsE/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1oSsE/full.png" alt="" /></noscript></div>
 
 
 In 2021 telde een Vlaamse gemeente gemiddeld xx procent sociale woningen, een stijging van xx procent ten opzichte van 2012. In absolute cijfers zijn dat xxx sociale woningen extra. Die stijging is marginaal wanneer we de cijfers van aantal kandidaat-sociale huurders er naast leggen. In diezelfde periode (van 2012 tot 2021) nam de wachtlijst voor een sociale woning toe met xx procent. Eind 2021 wachtten maar liefst 182.436 kandidaat-huurders op een sociale woning.
