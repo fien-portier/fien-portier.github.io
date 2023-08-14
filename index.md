@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Fien Portier Bio
-cover: /assets/img/cover.jpg
+title: Auteurs
+cover: /assets/img/cover-bouw-blok-03.jpg
 ---
 
 <!-- the {:style= "..." } suffix to the image can be replaced with {:.media-embed} as soon as this PR is accepted: 
