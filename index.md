@@ -10,7 +10,7 @@ cover: /assets/img/cover.jpg
 ![Fien Portier](/assets/img/fien-foto.jpeg){:style="width: 30%; max-width: 400px; float: right; border: 1px solid rgba(0,0,0,0.05); padding: 5px; border-radius:5px; margin: 5px;"} Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 > ##### Update: 
-> In augustus 2023 onderzocht ik als opdracht voor ... van de ... de toestand van de ... en de ... in Vlaanderen.  Daaruit volgde dit [onderzoeks-artikel](/pages/2023-08-sociale-woningen)
+> In het kader van de opleiding International Research Journalism hebben Laura Ortega Aranda en fien portier de sociale woonwijk de papenvest onder de loep genomen; daaruit volgde dit [onderzoeks-artikel](/pages/2023-08-sociale-woningen)
 {:.block-tip}
 
 ----
