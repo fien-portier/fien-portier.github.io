@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Fien Portier Bio
+title: auteurs
 cover: /assets/img/cover.jpg
 ---
 ## fien portier
