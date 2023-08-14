@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Het aandeel sociale woningen in de centrumsteden daalt, de sociale nood explodeert.
+cover: /assets/img/cover-bouwblok-04-orto.jpg
 ---
 
 De bouw van sociale woningen is al decennialang een heikel punt in Vlaanderen. De cijfers van Wonen in Vlaanderen en de Stadsmonitor zijn onverbiddelijk: het aandeel sociale woningen in de centrumsteden bleef over bijna 10 jaar grotendeels gelijk, terwijl de sociale nood in die steden zichtbaar stijgt.
@@ -21,11 +22,7 @@ De centrumsteden behoren tot de slechtste leerlingen van de klas. In Gent, Antwe
 De bovenstaande grafiek toont een decennia van onbeweegelijkheid in de sociale woningbouw, maar we missen een deel van het verhaal als we enkel naar deze cijfers kijken. 
 Terwijl het aandeel sociale woningen amper wijzigde, werd de sociale nood het afgelopen decennium steeds nijpender in de centrumsteden. De onderstaande animatie toont de evolutie (2012 tot 2022) van het aandeel sociale woningen per centrumstad in relatie tot het aantal mensen die recht hebben op verhoogde tegemoetkoming. 
 
-* Klik hier om de animatie te bekijken (V.T.)
-* Klik hier om de animatie te bekijken (kandidaat huurders)
-
 <!-- flourish embedded animatie -->
-
 <div class="flourish-embed flourish-scatter" data-src="visualisation/14700639"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
