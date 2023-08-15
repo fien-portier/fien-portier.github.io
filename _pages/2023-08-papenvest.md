@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Papenvest: een verhaal van meer dan tien jaar onzekerheid voor de meest kwetsbare inwoners van de hoofdstad"
+title: "Papenvest: een verhaal van meer dan tien jaar onzekerheid"
 cover: /assets/img/cover-papenvest-03.jpg
 ---
 
