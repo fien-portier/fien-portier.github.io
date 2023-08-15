@@ -28,8 +28,9 @@ Eind 2021, een piekjaar,  wachtten in Vlaanderen maar liefst 182.436 kandidaat-h
 
 De bovenstaande grafiek toont een decennium van onbeweeglijkheid in de sociale woningbouw en in de centrumsteden is die het meest frappant. In de grootste steden Gent en Antwerpen daalde het aandeel sociale woningen lichtjes. Andere centrumsteden kenden dan weer een zeer bescheiden groei. Het aandeel sociale woningen in Oostende steeg bijvoorbeeld met een luttele 0,16 procent, in Aalst met 0,29 procent en in Hasselt met 0,18 procent. 
 
-Terwijl het aandeel sociale woningen het voorbije decennium amper wijzigde, werd de sociale nood in de centrumsteden nijpender. Sinds 2015 stijgt het [aantal leefloners in Vlaanderen](https://www.vlaanderen.be/sociaal-woonbeleid/cijfers/kandidaat-huurders-en-kopers) gestaag, net zoals het aantal mensen dat beroep doet op een Voedselbank voor hun basisbehoeften. Het aandeel inwoners van een centrumstad die recht heeft [Verhoogde Tegemoetkoming](https://gemeente-stadsmonitor.vlaanderen.be/indicators/personen-met-verhoogde-tegemoetkoming-ziekteverzekering) steeg van 12,5 procent in 2007 naar 18,6 procent in 2022.  
-De onderstaande animatie toont de evolutie van het aandeel sociale woningen per centrumstad in relatie tot het aantal mensen op de wachtlijst voor een sociale woning. 
+Terwijl het aandeel sociale woningen het voorbije decennium amper wijzigde, werd de sociale nood in de centrumsteden nijpender. Sinds 2015 stijgt het [aantal leefloners in Vlaanderen](https://www.vlaanderen.be/sociaal-woonbeleid/cijfers/kandidaat-huurders-en-kopers) gestaag, net zoals het aantal mensen dat beroep doet op een Voedselbank voor hun basisbehoeften. Het aandeel inwoners in de centrumsteden die recht heeft [Verhoogde Tegemoetkoming](https://gemeente-stadsmonitor.vlaanderen.be/indicators/personen-met-verhoogde-tegemoetkoming-ziekteverzekering) steeg van 12,5 procent in 2007 naar 18,6 procent in 2022.
+
+Onderstaande animatie toont de evolutie van het aandeel sociale woningen per centrumstad in relatie tot het aantal mensen op de wachtlijst voor een sociale woning. 
 
 
 <!-- flourish embedded animatie -->
