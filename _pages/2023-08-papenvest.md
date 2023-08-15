@@ -21,7 +21,7 @@ Tot voor kort dan toch want momenteel zijn drie van de vijf torens onbewoond. �
 
 ## “Een bron van hinder, ongezondheid en ongemak” 
 
-Op 30 juni 2016 stemde de gemeenteraad namelijk voor de afbraak van de sociale woontorens, op basis van een [technische audit door Beliris](/assets/content/papenvest/technische-audit-beliris.pdf){:target="_blank"}. In een persbericht van de stad lezen we dat ‘de achterhaalde bouwvorm’ en het gebrek aan isolatie “een bron van hinder, ongezondheid en ongemak” zijn voor de bewoners. Renovatie was geen optie meer door de slechte staat van de gebouwen, wat zou leiden tot een te kostelijke en technisch moeilijke renovatie. 
+Op 30 juni 2016 stemde de gemeenteraad namelijk voor de afbraak van de sociale woontorens, op basis van een [technische audit door Beliris](/assets/content/papenvest/technische-audit-beliris.pdf){:target="_blank"}. In een [persbericht](https://www.brussel.be/sites/default/files/bxl/20160630_Papenvest.pdf){:target="_blank"} van de stad lezen we dat ‘de achterhaalde bouwvorm’ en het gebrek aan isolatie “een bron van hinder, ongezondheid en ongemak” zijn voor de bewoners. Renovatie was geen optie meer door de slechte staat van de gebouwen, wat zou leiden tot een te kostelijke en technisch moeilijke renovatie. 
 
 ‘Op basis van de materialen die toen gebruikt werden, stellen architecten na dertig jaar een grondige renovatie voor’, vertelt **Mohammed Benzaouia**. Hij werkt voor [Inter-Environnement Bruxelles](https://www.ieb.be/), een organisatie die inwoners verenigt die bezig zijn met stedelijke, ecologische en sociale kwesties. ‘Afbraak werd onvermijdelijk door vijftig jaar absolute desinteresse in de blokken en de mensen die er wonen.' 
 [Uit een overzicht van renovaties aan de gebouwen](/assets/content/papenvest/beroep-cada-papenvest-bijlage.pdf){:target="_blank"}, opgevraagd bij de Stad Brussel, blijkt inderdaad dat er enkel oppervlakkige renovaties werden uitgevoerd. 
@@ -32,14 +32,13 @@ Alle (ex-)bewoners die we ontmoeten vertellen over de onhygiënische en gevaarli
 
 Godrie wijst het gebrek aan financiële middelen aan als de boosdoener: ‘We proberen al twintig jaar om de site te renoveren, de financiële last is te groot voor Brusselse Woning.’ In 2016 besloot de Grondregie van de Stad Brussel om mee te stappen in het project. Met verenigde krachten en portefeuilles besloten beide organisaties om 335 woningen te bouwen op de site, waarvan 201 sociale woningen beheerd door de Brusselse Woning en 134 middenklassewoningen beheerd door de Regie. De Brusselse Woning zou dus een deel van haar sociale woningen op de site afstaan aan de stad. ‘De sociale woningen die we verliezen op de site worden gecompenseerd door de Grondregie’, vertelt Lionel Godrie. ‘Die ruil is echter nog niet concreet, maar het College van Burgemeester en Schepenen tekende al een [principeakkoord](/assets/content/papenvest/20100617-beslissing-college-Papenvest151.pdf){:target="_blank"} voor de ruil.’ Het is momenteel dus echter niet duidelijk waar in Brussel deze geruilde woningen gesitueerd zullen zijn. 
 
-### wachten op de stedenbouwkundige vergunning
 
 In 2019 won het consortium TEAM 5+ het contract met hun ontwerp van de toekomstige Papenvest site. De planning toen voorzag om in 2022 te kunnen beginnen met de werken. 
 Door protest van verschillende buurtbewoners liep het project echter vertraging op. Indien de stedenbouwkundige vergunning dit jaar nog verkregen wordt kan er in augustus volgend jaar gestart worden met de afbraak, wist Godrie in juni te vertellen. 
 
 ![Papenvest](/assets/content/papenvest/papenvest-07.jpg){:.media-band-300.top}
 
-## sociale mix: ‘je kan dit discours gebruiken zoals het in je kraam past’
+## Sociale mix: ‘je kan dit discours gebruiken zoals het in je kraam past’
 
 Tegenstanders van het nieuwe project begrijpen niet waarom er gekozen werd voor een vermindering van het aantal sociale woningen. “U vernietigt sociale woningen om middenklassewoningen te bouwen. Het is een politieke keuze", zei politica **Marie Nagy** tijdens een openbare vergadering over de afbraak van de 5 blokken in 2017. In maart 2021 legitimeerden burgemeester [Philip Close en Schepen van Huisvesting Lydia Mutyebele](https://logementbruxellois.be/wp-content/uploads/2021/03/2021-03-01-Persbericht-Papenvest-Voorontwerp.pdf) het verlies van sociale woningen op de site door te verwijzen naar het belang van een "sociale mix" in de buurt. [De Brusselse Woning](https://brusselsewoning.be/actualiteit/waarom-afbreken-heropbouwen-papenvest-in-plaats-van-renoveren/){:target="_blank"} noemde de afbraak en bouw van middenklassewoningen een 'opportuniteit om  de sociale mix te verbeteren’. Dit argument wordt wel vaker gebruikt bij de bouw van soortgelijke gemengde projecten. 
 
