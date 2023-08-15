@@ -18,6 +18,9 @@ plugins:
 
 favicon_path:  assets/img/icon.png
 
+# hide from search indexes 
+noindex: true
+
 #  from theme gitbook:
 ## markdown render engine.
 markdown:         kramdown
