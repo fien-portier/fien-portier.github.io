@@ -13,7 +13,7 @@ cover: /assets/img/cover-papenvest-03.jpg
 **Valerie** is 63 jaar oud en trotse oma van twee grappige meisjes van vier en negen jaar oud. We hebben afgesproken aan “de 5 blokken”, dat is de naam die de bewoners zelf geven aan de Papenvestsite. De vijf grijze blokken rijzen uit boven de omliggende appartementen. 
 
 
-Voor de meeste Brusselaars zijn de vijf blokken een bizar open site in een verder dichtbevolkte wijk, voor Valerie vormen de blokken de achtergrond van haar leven. ‘Ik ben hier komen wonen met mijn ouders in 1966, direct toen ze afgewerkt waren.’ De vijf woontorens huisden zo’n 850 sociale huurders in 314 sociale woningen; alleenstaande ouders, gezinnen, nieuwkomers en autochtonen. ‘Het was hier altijd een grote mengelmoes, een hechte, levendige gemeenschap in het hartje van Brussel’, vertelt **Riet Dhont** , gemeenteraadslid in Brussel voor de PVDA-PTB. 
+Voor de meeste Brusselaars zijn de vijf blokken een bizar open site in een verder dichtbevolkte wijk, voor Valerie vormen de blokken de achtergrond van haar leven. ‘Ik ben hier komen wonen met mijn ouders in 1966, direct toen ze afgewerkt waren.’ De vijf woontorens huisden zo’n 850 sociale huurders in 314 sociale woningen; alleenstaande ouders, gezinnen, nieuwkomers en autochtonen. ‘Het was hier altijd een grote mengelmoes, een hechte, levendige gemeenschap in het hartje van Brussel’, vertelt **Riet Dhont**, gemeenteraadslid in Brussel voor de PVDA-PTB. 
 
 ![Papenvest](/assets/content/papenvest/papenvest-09.jpg){:.media-band-300.top}
 
