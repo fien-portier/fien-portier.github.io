@@ -1,157 +1,76 @@
 ---
 layout: home
-title: "Focus: het verhaal van de vijf blokken"
+title: "Het verhaal van de vijf blokken"
 cover: /assets/img/cover-papenvest-03.jpg
 ---
 
-<!-- https://docs.google.com/document/d/1v7mF8Je31Gry3iANnQe1lxYKwVoIIpPG81p2TU3-r1U/edit?usp=sharing -->
 
+> Brussel investeert 61.5 miljoen in de afbraak en heropbouw van het sociale woningcomplex de Papenvestvest in hartje Brussel. Een verhaal over meer dan tien jaar onzekerheid voor de meest kwetsbare inwoners van de hoofdstad. ‘De Papenvest is exemplarisch voor alles wat fout is met sociale woningbouw in Brussel.’, zegt journalist en kunstenaar Raf Custers. 
+{:.block-intro}
 
+## De vijf spookblokken: ‘soms zijn mensen helemaal alleen op een verdieping’
 
-> Brussel investeert 17.5 miljoen in de afbraak en heropbouw van sociale woningcomplex de Papenvestvest in hartje Brussel. Een verhaal over meer dan tien jaar onzekerheid voor de meest kwetsbare inwoners van de hoofdstad. ‘De Papenvest is exemplarisch voor alles wat fout is met sociale woningbouw in Brussel.’, zegt journalist en kunstenaar Raf Custers. 
+**Valerie** is 63 jaar oud en trotse oma van twee grappige meisjes van vier en negen jaar oud. We hebben afgesproken aan “de 5 blokken”, dat is de naam die de bewoners zelf geven aan de Papenvestsite. De vijf grijze blokken rijzen uit boven de omliggende appartementen. 
 
+Voor de meeste Brusselaars zijn de vijf blokken een bizar open site in een verder dichtbevolkte wijk, voor Valerie vormen de blokken de achtergrond van haar leven. “Ik ben hier komen wonen met mijn ouders in 1966, direct toen ze afgewerkt waren.” De vijf woontorens huisden zo’n 850 sociale huurders in 314 sociale woningen; alleenstaande ouders, gezinnen, nieuwkomers en autochtonen. ‘Het was hier altijd een grote mengelmoes, een hechte, levendige gemeenschap in het hartje van Brussel’, vertelt **Riet Dhont**, gemeenteraadslid in Brussel voor de PVDA-PTB. 
 
-## verwaarlozing
+![Papenvest](/assets/content/papenvest/papenvest-09.jpg){:.media-band-300.top}
 
-Valerie is 63 jaar oud en trotse oma van twee grappige meisjes van 4 en 9 jaar oud. We hebben afgesproken aan “de 5 blokken”, dat is de naam die de bewoners zelf geven aan de Papenvestsite. De vijf grijze blokken rijzen in hartje brussel tussen de hippe Dansaertstraat en de sluis aan de Ninoofsepoort uit boven de omliggende appartementen. 
+Tot voor kort dan toch want momenteel zijn drie van de vijf torens onbewoond. “De overige twee torens zijn voor zo’n 24 procent bewoond”, vertelt **Lionel Godrie**, Algemeen Directeur van de Brusselse Woning, de openbare vastgoedmaatschappij die de woningen op de Papenvest site beheert. “Soms zijn mensen helemaal alleen op een verdieping, dan voorzien we extra bewaking voor de bewoners.”
 
-Voor de meeste Brusselaars zijn de vijf blokken een bizar open site in een verder dichtbevolkte wijk, voor Valerie vormen de blokken de achtergrond van haar leven. “Ik ben hier komen wonen met mijn ouders in ‘65, direct toen ze afgewerkt waren.” De vijf woontorens huisden zo’n 850 sociale huurders in 314 sociale woningen; alleenstaande ouders, gezinnen, nieuwkomers en autochtonen. ‘Het was hier altijd een grote mengelmoes, een hechte, levendige gemeenschap in het hartje van Brussel’, vertelt Riet Dhont, gemeenteraadslid in Brussel voor de PVDA-PTB. 
+## “Een bron van hinder, ongezondheid en ongemak” 
 
-![Papenvest #01](/assets/content/papenvest/papenvest-01.jpg){:.media-band-300}
+Op 30 juni 2016 stemde de gemeenteraad namelijk voor de afbraak van de sociale woontorens, op basis van een [technische audit door Beliris](/assets/content/papenvest/technische-audit-beliris.pdf){:target="_blank"}. In een persbericht van de stad lezen we dat ‘de achterhaalde bouwvorm’ en het gebrek aan isolatie “een bron van hinder, ongezondheid en ongemak” zijn voor de bewoners. Renovatie was geen optie meer door de slechte staat van de gebouwen, wat zou leiden tot een te kostelijke en technisch moeilijke renovatie. 
 
-Tot voor kort dan toch want momenteel zijn drie van de vijf torens onbewoond. “De overige twee torens zijn voor zo’n 24 procent bewoond”, vertelt Lionel Godrie, Algemeen Directeur van de Brusselse Woning, de openbare vastgoedmaatschappij die de woningen op de Papenvestsite beheert. “Soms zijn mensen helemaal alleen op een verdieping, dan voorzien we extra bewaking voor de bewoners.”
+‘Op basis van de materialen die toen gebruikt werden, stellen architecten na dertig jaar een grondige renovatie voor’, vertelt **Mohammed Benzaouia**. Hij werkt voor Inter-Environnement Bruxelles, een organisatie die inwoners verenigt die bezig zijn met stedelijke, ecologische en sociale kwesties. ‘Afbraak werd onvermijdelijk door vijftig jaar absolute desinteresse in de blokken en de mensen die er wonen.' 
+[Uit een overzicht van renovaties aan de gebouwen](/assets/content/papenvest/beroep-cada-papenvest-bijlage.pdf){:target="_blank"}, opgevraagd bij de Stad Brussel, blijkt inderdaad dat er enkel oppervlakkige renovaties werden uitgevoerd. 
 
-Waarom deze volksverhuis? De befaamde torens zullen binnenkort verdwijnen. Op 30 juni 2016 stemde de Gemeenteraad voor de afbraak op basis van een technische audit gefinancierd door Beliris. Het persbericht verantwoordt de keuze van de Gemeenteraad door te verwijzen naar de slechte staat van de blokken en schrijft dat ‘de achterhaalde bouwvorm’ en het gebrek aan isolatie “een bron van hinder, ongezondheid en ongemak” zijn voor de bewoners. 
+Ook Valerie heeft na 57 jaar haar appartement uiteindelijk verlaten . ‘Als kind was dat hier het paradijs, maar ik heb de blokken voor mijn ogen zien verkommeren. Het was hier niet meer leefbaar. Ik ben content dat ik hier weg ben.’ 
+Alle (ex-) bewoners die we ontmoeten vertellen over de onhygiënische en gevaarlijke staat van de blokken. Benzaouia kan ervan meespreken: 'Ik heb neven die wonen op de bovenverdieping van blok 2. In veel van die appartementen zijn de muren beschimmeld door het vocht. Op een bepaald moment vielen er stukken van de façade naar beneden. 'De situatie daar is gewoon crimineel.'. Ook Lionel Godrie erkent de problemen in de vijf blokken: ‘Ik ben de eerste die het zal toegeven: de kwaliteit van woningen op de Papenvest is verschrikkelijk.' 
 
-Ook Valerie heeft na 58 jaar haar appartement uiteindelijk verlaten. ‘Als kind was dat hier het paradijs maar ik heb de blokken voor mijn ogen zien verkommeren. Het was hier niet meer leefbaar. Ik ben content dat ik hier wegben.’ Alle (ex-) bewoners die we ontmoeten vertellen over de onhyghiënische en gevaarlijke staat van de blokken. Mohammed Benzaouia kan er van meespreken: ‘ik heb neven die wonen op de bovenverdieping van blok 2. In veel van die appartementen zijn de muren volledig beschimmeld door het vocht. Op een bepaald moment vielen er stukken van de façcade naar beneden. Het is crimineel gewoon.’ Benzaouia werkt voor Inter-Environment Bruxelles. Ook de Algmeen Directeur van de Brusselse Woning erkent de problemen in de vijf blokken: “ik ben de eerste die het zal toegeven: de kwaliteit van woningen op de Papenvest is verschrikkelijk.’ 
 
-Hoe is het zo ver kunnen komen? ‘Op basis van de materialen die toen gebruikt werden schatten architecten dat je na vijftien jaar moet beginnen renoveren. Na 30 jaar is het tijd voor een zware renovatie. Maar ze hebben niets gedaan. Niets.’
+Godrie wijst het gebrek aan financiële middelen aan als de boosdoener: ‘We proberen al twintig jaar om de site te renoveren, de financiële last was te groot voor ons alleen.’ In 2016 besloot de Grondregie van de Stad Brussel om mee te stappen in het project. Met verenigde krachten en portefeuilles besloten beide organisaties om 335 woningen te bouwen op de site, waarvan 201 sociale woningen beheerd door de Brusselse Woning en 114 middenklassewoningen beheerd door de Regie. De Brusselse Woning zou dus een deel van haar sociale woningen op de site afstaan aan de stad. ‘De sociale woningen die we verliezen op de site worden gecompenseerd door de Grondregie’, vertelt Lionel Godrie. ‘Die ruil is echter nog niet concreet, maar het College van Burgemeester en Schepenen tekende al een [principeakkoord](/assets/content/papenvest/20100617-beslissing-college-Papenvest151.pdf){:target="_blank"} voor de ruil.’ Het is momenteel dus echter niet duidelijk waar in Brussel deze geruilde woningen gesitueerd zullen zijn. 
 
-Godrie legt uit: ‘we proberen de blokken 
+### wachten op de stedenbouwkundige vergunning
 
+In 2019 won het consortium TEAM 5+ het contract met hun ontwerp van de toekomstige Papenvest site. De planning toen voorzag om in 2022 te kunnen beginnen met de werken. 
+Het project kreeg ondanks protest tegen het nieuwe project door verschillende buurtbewoners gunstige advies van de overlegcommissie. 
 
+‘Onze planning liep wat vertraging op door de klachten van de buurtbewoners’, vertelt Godrie. ‘Maar als we dit jaar onze stedenbouwkundige vergunning nog krijgen, kunnen we in augustus 2024 beginnen met de afbraak van de torens.'
 
+![Papenvest](/assets/content/papenvest/papenvest-07.jpg){:.media-band-300.top}
 
+‘Het leven van een sociale huurder is een eindeloos wachten’, zucht Régine een kranige vrouw, die gekend bij de bewoners van de blokken stond als maman du cartier. ‘Eerst staan we tien jaar op een wachtlijst en dan wachten we op herstellingen, renovaties, een nieuw appartement,... 'Je bent de speelbal van ingewikkelde administratie en logge organisaties.’ 
 
+## sociale mix: ‘je kan dit discours gebruiken zoals het in je kraam past’
 
-Zo werden de Papenvestblokken stille getuigen van het absolute gebrek aan politieke aandacht voor sociale woningbouw in de voorbije vijftig jaar.
+Verschillende tegenstanders van het nieuwe project begrijpen niet waarom er gekozen werd voor een vermindering van het aantal sociale woningen. “U vernietigt sociale woningen om middenklassewoningen te bouwen. Het is een politieke keuze", zegt politica **Marie Nagy** tijdens een openbare vergadering over de afbraak van de 5 blokken in 2017. In maart 2021 legitimeerden burgemeester Philip Close en Schepen van Huisvesting Lydia Mutyebele het verlies van sociale woningen op de site door te verwijzen naar het belang van een ‘sociale mix’ in de buurt. De komst van middenklasse huurders van de Regie zou ‘de sociale mix van de wijk versterken’, volgens burgemeester Philippe Close en Schepen van Huisvesting Lydia Mutyebele. De Brusselse Woning noemt de afbraak en inclusie (?) van middenklassewoningen een ‘opportuniteit om  de sociale mix te verbeteren’. Dit argument wordt tevens vaker gebruikt bij de bouw van soortgelijke gemengde projecten. 
 
+![Papenvest](/assets/content/papenvest/papenvest-07.jpg){:.media-band-300.bottom}
 
-![Papenvest #01](/assets/content/papenvest/papenvest-03.jpg){:.media-band-300.top}
+Het klinkt alvast veelbelovend, maar wat is nu juist een “sociale mix”? Dat is het idee dat een mengeling van sociale groepen, de meest kwetsbare bewoners van een stad, wijk of buurt ten goede komt. De aanwezigheid van de middenklasse zou de buurt economisch doen heropleven en een sterk netwerk bieden voor bewoners in een meer precaire situatie. De implementatie van sociale mix-beleid kan echter ook gentrificatieprocessen in gang zetten die resulteren in het verdrijven van precaire groepen. 
+‘“Sociale mix”, het klinkt goed, maar er is geen enkel wetenschappelijk bewijs dat een sociale mix kwetsbare bewoners ten goede zou komen”, vertelt **Pascal De Decker**, professor aan de faculteit architectuur van de KU Leuven . Ook **Mae De Monchy** is kritisch: ‘Het discours van de sociale mix legitimeert de bouw van middenklasse woningen in een sociale woonwijk. Maar waarom geldt dat argument niet in de andere richting? Ik hoor politici nooit ijveren voor meer sociale woningen in de Kanaalzone.’  De Monchy schreef een thesis over de Papenvest en onderzoekt sociale woningbouw in Brussel. 
 
+Ook de ambiguïteit van het begrip ‘sociale mix’ kan voor verwarring zorgen. ‘Politici maken zelden duidelijk op welk niveau ze een sociale mix willen verkrijgen. 'In een stad als Brussel is er al een sociale mix. Ook op wijkniveau zien we een sociale mix; de Dansaertstraat ligt vlak naast Papenvest’, vertelt De Decker. ‘Door het vaag te houden, kan je het discours gebruiken “zoals het in je kraam past.”’ 
 
-### ...wachten op de stedenbouwkundige vergunning
+Maar hoe serieus was dit argument dan in de eerste plaats? In oktober 2022, toen stadsbestuur lanceerde namelijk de socialisatie van de huurprijzen van openbare woningen en schoven diezelfde Brusselse politici het ideaal van sociale mix weer aan de kant. De socialisatie van de huurprijzen laat gezinnen die de wachtlijst voor een sociale woning staan, maar in de tussentijd huren bij de Grondregie van de Stad Brussel of het OCMW, om te huren aan een sociaal tarief. Op de Papenvest site zullen alle middenklasse woningen beheerd door de Regie, verhuurd worden aan gesocialiseerde prijzen. Er zal dus uiteindelijk toch geen sociale mix gecreëerd worden op de Papenvest site. 
 
-In 2019 kwam het project van groep “TEAM +5”. In het nieuwe project worden 335 wooneenheden voorzien, waarvan 201 sociale woningen beheerd door de Brusselse Woning en 114 middenklasse woningen beheerd door de Regie van de stad Brussel.
 
-‘Het leven van een sociale huurder is een eindeloos wachten’, zucht Régine een kranige vrouw, die gekend bij de bewoners van de blokken stond als maman du cartier. ‘Eerst staan we tien jaar op een wachtlijst en dan wachten we op herstellingen, renovaties, een nieuw appartement,... Je bent de speelbal van ingewikkelde administratie en logge organisaties.’ 
+‘‘De ideologische slingerbeweging van het stadsbestuur getuigt van een gebrek aan visie voor de sociale woningbouw in de Brusselse context", aldus **Claude Archer**, een activist verbonden aan burgerbeweging [Transparencia](https://transparencia.be/){:target="_blank"}.
 
 
+De Brusselse Woning is erg tevreden met de beslissing van het stadsbestuur: ‘Ik ben fier dat ik mag werken in een stad die zoveel doet voor sociale woningen. De maatregel is een stapje richting een kortere wachtlijst’, aldus Godrie. De wachtlijst van de kandidaat-huurders in het Brussels Gewest is al decennialang een heikel punt. En van alle gemeenten in het Gewest is de sociale woonnood in de Stad Brussel het meest nijpend. 
+Volgens cijfers van de BGHM wachten er 29.174 personen op een sociale woning in Stad Brussel. Dat is ongeveer 55 procent van het totaal aantal kandidaat-huurders in het Brussels Gewest terwijl slechts 11 procent van het totale aantal inwoners van het gewest in postcode 1000 leeft.  
 
-In plaats van de 5 huidige woontorens, stelt het voorproject de bouw voor van 2 blokken van in totaal 335 wooneenheden waartussen een openbare ruimte en een socio-sportcentrum en een stadsboerderij voor de buurt komen
+De stap om de huurprijzen te socialiseren wordt over het algemeen dus zeker toegejuicht, toch zijn er nog enkele vraagtekens. ‘Ik ben an sich voorstander van gesocialiseerde huur', zegt ook gemeenteraadslid Riet Dhondt. ‘Maar het maakt het beleid rond sociale woningen wel nog complexer. En daarbij, stel dat in 2024 de MR aan de macht komt, wie garandeert dat de gesocialiseerde huur behouden kan blijven?’ 
 
-De afbraakwerken zouden eind 2022 van start gaan maar de stedenbouwkundige vergunning laat op zich wachten door de klachten van omwonenden die naar bovenkwamen in het openbaar onderzoek. In 2016 voorspelde ??? «naam» dat de stedenbouwkundige vergunning in 2018 zou kunnen afgeleverd worden. We vijf jaar later en de betrokken partijen hebben nog geen zich op wanneer ze van start kunnen gaan met de afbraakwerken (check nog eens godrie). 
+![Papenvest](/assets/content/papenvest/papenvest-06.jpg){:.media-band-300.bottom}
 
+Het is ook nog niet duidelijk hoe de bewoners van de appartementen in beheer van de Regie juist gekozen zullen worden. Zal de Regie het puntensysteem van de sociale woningen overnemen, of is er een aparte regeling van toepassing? 
 
+## Naar “La Poubelle”
 
+Valerie is net zoals veel van haar voormalige buren verhuisd naar een sociale woonwijk in Haren. ‘Het is hier precies een andere wereld hier. Alles is ver… ja, het is aanpassen maar ik klaag niet hoor, de woning is heel mooi.’ De meeste ex-bewoners van de Papenvest wonen nu in de gemeenten Neder-Over-Heembeek en Haren, ook wel “La Poubelle" genoemd, slechts een paar bewoners kregen een appartement in het centrum. Riet Dhont, die een goede relatie heeft met de voormalige bewoners, vertelt hoe de ex-bewoners moesten wennen aan hun nieuwe woonplaats. ‘Sommigen hebben kinderen naar school gaan naast de Papenvest. Ze zijn gemakkelijk 45 minuten onderweg vanuit Neder-Over-Heembeek.’ 
+Pascal De Decker vult aan: 'Voor kwetsbare gezinnen is zo’n verhuis nog ingrijpender, die mensen zijn plots hun dagelijkse gewoontes en hun sociale netwerk kwijt.’
 
-
-(...)
-
-## afbraak en sociale mix 
-
-Godrie: “Met de Brusselse Woning willen we deze site al twintig jaar renoveren maar de financiële last was te groot voor ons alleen. De hulp van de Regie van de stad Brussel was voor ons de enige mogelijkheid om zo’n groot project op te starten.” 
-In ??? kwamen de Brusselse Woning en de Regie van de Stad Brussel tot een overeenkomst. De Regie zou «welk deel» van de kosten op zich nemen in ruil voor het beheer van xx «aantal» woningen in het nieuwe project. De twee spelers beslisten uiteindelijk dat het nieuwe project  In 2019 nog legitimeerden zowel toenmalig Schepen van Huisvesting Khalid Zian (PS) als de voorzitter van de Brusselse Woning Karim Tafranti het verlies van sociale woningen op de site door te verwijzen naar het belang van een “sociale mix” in de buurt. 
-In maart 2021 legitimeerden Burgemeester Philip Close en Schepen van Huisvesting Lydia Mutyebele het verlies van sociale woningen op de site door te verwijzen naar het belang van een ‘sociale mix’ in de buurt. De komst van middenklassehuurders van de Regie zou ‘de sociale mix van de wijk versterken’, volgens Burgemeester Philip Close en Schepen van Huisvesting Lydia Mutyebele. 
-
-Sociale mix is het idee dat een mengeling van sociale groepen in stad, wijk of buurt wijk de meest kwetsbare bewoners van die stad, wijk of buurt ten goede komt. De aanwezigheid van middenklasse bewoners zou de helpen met de destigmatisering van een bepaalde buurt en door 
-“Er is geen enkel wetenschappelijk bewijs dat een sociale mix kwetsbare bewoners ten goede zou komen”, vertelt professor «iets?» Pascal De Decker. Ook Mae De Monchy, onderzoeker en activiste bij ???,  is kritisch: “Sociale mix is een discours dat legitimeert dat je middenklasse woningen gaat bouwen in een sociale woonwijk. Waarom gaat het nooit de andere kant op? Ik hoor geen politici ijveren voor meer sociale woningen in «naam chique nieuwe woonwijk»” 
-
-Veeleer dan een ernstige ideologische toewijding aan het ideaal van de sociale mix, bleek het een vluchtig discours dat toenertijd goed uitkwam om een bepaald beleid te legitimeren. Dat wordt duidelijk als we zien hoe vlot er ook terug afgestapt werd van dat ideaal. 
-
-‘Politici maken zelden duidelijk op welk niveau ze een sociale mix willen verkrijgen. In een stad als Brussel is er al een sociale mix’, legt De Decker uit. ‘Ook op wijkniveau zien we daar een sociale mix, zeker met die hippe Dansaertstraat die naast de Papenvestsite ligt. Door het vaag te houden, kan je het discours gebruiken zoals het in je kraam past.’ 
-
-### socialisatie huurprijzen 
-
-Maar sinds oktober 2022 zijn diezelfde Brusselse politici weer afgestapt van het idee van sociale mix. 
-
-In  
-
-Het Gewest en de Stad Brussel lanceren de socialisatie van de huurprijzen van de openbare woningen in de Stad
-Na Sint-Gillis, Elsene en Sint-Jans-Molenbeek is het nu de beurt aan de Stad Brussel om - in samenwerking met en met de steun van het Gewest - de socialisatie van de huurprijzen voor haar sociale woningen op te starten. Het proces werd opgestart door Staatssecretaris voor Huisvesting Nawal Ben Hamou in het kader van het gewestelijk Noodhuisvestingsplan.
-
-Socialisatie: een sociale huur die niet hoger is dan 22% van het inkomen van de betrokken huurders
-
-
-Het project voorziet de afbraak van de 314 bestaande sociale woningen in twee fasen en de heropbouw van 350 nieuwe woningen:  210 sociale woningen beheerd door de Brusselse Woning  140 middenklasse woningen beheerd door de Grondregie van de Stad Brussel. 
-
-de kwaliteit van de woningen op de Papenvest, c'est zero, het is niets. Op het niveau van de energie, op het niveau van het leven van alledag, op het niveau van het aangename. Zijn de ruimtes vandaag aangenaam, ik denk het niet. Het project is begonnen ver voor ik hier directeur ben geworden. Ik werd directeur in 2019. Ik heb andere directeurs voor mij gehad.
-
-Omwille van die 
- ik heb Ik kon het niet meer aanzien… we wisten dat we moesten vertrekken maar er was vooral veel onduidelijk. Wie kon blijven? Wie moest weg?”
-
-   staan er 3 (?) torens leeg en zijn de zijn de overige twee nog amper bevolkt. Brusselse Woninge
-
- en woont hier al vanaf haar ??. “Als kind was dat hier het paradijs. We zijn altijd gemeenschap geweest, les gens des blocs.” 
-
-mohammed IEB: De materialen die toen gebruikt werden, ze wisten dat binnen 15 jaar ze moeten het renoveren. Et en na nog wat jaren zou het een zware renovatie worden. Maar ze hebben niets gedaan, ils on laissent courrir. Les gens arrivent dans une situation... bwah... het is echt verschrikkelijk... c'est insalubre (onhyghiënisch). Il y a de moisure (vocht), er zijn schimmels, de mensen... ik heb neven op de bovenverdiepingen en beneden... alles is geïnfecteerd, er is niets gedaan. (iets met plakaten die gevallen zijn?). Dans le centre (medidité???) zijn er soms enkele schilderwerken maar bon da lost niets op natuurlijk. Het is echt crimineel 05:49 Le logement c'est tres important.
-
-→ antwoorden van godrie (reactie) 
-
-## politiek rond sociale woningen in Brussel
-
-In rijke gemeentes nooit extra sociale woningen - 
-weinig lijn in te trekken? Sociale mix komt uit de kast als het slap verhaaltje dat het maar is. 
-
-QUOTE CLAUDE ARCHER: Zoveel organisaties bezig met sociale woningbouw en nu nog eens een systeem ernaast
-
-QUOTE GODRIE: ja wij willen wel alle woningen beheren…
-
-wat is de logica om daar een tweede 
-
-
-### Keuze om de grondregie te betrekken (aan gesocialiseerde prijzen dus wat is de logica???) 
-
-[Beslissing Gemeenteraad 20 maart](/assets/content/papenvest/20100617-beslissing-college-Papenvest151.pdf){:target="_blank"} opgevraagd. 
-
-Eerst een logica van sociale mix → nu gesocialiseerde huurprijzen. bewijs dat er weinig lijn in te trekken is allemaal
-
-Toen in 2021 het nieuwe ontwerp werd voorgesteld werd er nog trots verwezen naar 
-
-“Ik kijk er naar uit om deze grote uitdaging, die de renovatie van de Papenvest-site toch is, samen met de Brusselse Woning aan te gaan. Door sociale woningen samen met middenklasse woningen in te planten zorgen we immers voor een betere sociale mix. Bovendien behouden we specifieke ruimtes voor jonge kinderen, senioren, sportievelingen en de bewoners, om het sociale weefsel te bevorderen. We zullen passief bouwen en onze ecologische voetafdruk beperkt houden, waarbij we ook de energiefactuur van de toekomstige bewoners drastisch zullen verminderen”, onderstreept Khalid ZIAN, Schepen van Huisvesting, Openbaar Patrimonium en Gelijke Kansen van de Stad Brussel.
-
-
-
-
-### armen naar rand van de stad 
-
-Bellen naar Brusselse Woning: waar zullen mensen terecht komen? Neder-Over-Heembeek (Versailles) aan de rand of Haren ook wel La Poubelle genoemd. 
-
-Dit is niet enkel het geval in de Papenvest. Overal in het Brusselse centrum zien we hoe gezinnen gedwongen worden om te verhuizen naar een nieuwe woning in de periferie. Het doembeeld van de Parijse banlieus doemt op. Een onbetaalbaar centrum en de meer kwetsbare personen aan de rand. 
-
-Kunnen ze terugkeren? Niet duidelijk. Het duurt minstens 10 jaar vooraleer de woningen klaar zullen zijn. Daarbij zullen de bewoners binnen 10 jaar nieuwe sociale netwerken hebben opgebouwd in een andere buurt. Andere typologie. Hogere huurprijs want opwaardering buurt 
-Volgens Marcel Rijdams zullen de 
-
-In de Papenvest verdwijnen 100 sociale woningen. De Brusselse Woning slaagt erin de bewoner te herlokaliseren naar projecten in Haren en Neder-Over-Heembeek, maar heeft geen plan om op een andere plaats sociale woningen bij te bouwen. Temidden van een sociale huisvestingscrisis zorgen de openbare vastgoedmaatschappijen er dus voor dat de wachtrijen nog langer worden. 
-
- 
-- Cijfers van het aantal personen op de wachtlijst (Brussels Gewest) voor een sociale woning (logement social) : 31/12/2022 : 52850
-een woning voor bescheiden inkomen (logement modéré)  31/12/2022 : 985
-woning voor gemiddeld inkomen (logement moyen) 31/12/2022 : 83
-- Cijfers van het aantal personen op de wachtlijst (stad Brussel) voor een sociale woning (logement social) (1000 Brussel)  31/12/2022 : 29174
-
-## afsluitend 
-
-terwijl de politieke strijd woelig voortraast en ze zelf proberen te begrijpen welke wetgeving ze exact hebben goedgekeurd,  proberen de voormalige bewoners zich aan te passen aan hun nieuw leven. (+ voorbeeldjes: mijn dochter heeft een beperking ik moest een auto kopen anders raakte ik niet op haar school…) 
-
-De bewoners die nog in de torens leven proberen zich terwijl zo goed mogelijk voor te bereiden op een leven in een werf. 
-
-ter
-
-begeleidende mail: 
-publiceren op het moment van een stedelijke vergunning - we vertellen het verhaal van de 5 blokken. 
-veel stakeholders gesproken - voor publicatie moeten we onze feiten nog eens dubbelchecken
-Regine hebben we contact mee het is ons echter nog niet gelukt om af te sprekenµ
-
-middenklasse appartementen door te verwijzen naar de deugd van de “sociale mix” van het project  naar de “sociale mix” van het project om  , Openbaar Patrimonium en Gelijke Kansen van de Stad bIn de persberichten uit die tijd komt het 
-insprong konden we eindelijk 
+‘Mevrouw Régine, een Congelese dame, heeft geweigerd om te vertrekken’, vertelt Riet Dhont met een lachje. ‘Dat was “la matronne des blocs” en ze durfden niet tegen haar in gaan. Ze heeft nu een appartementje in de 135.’
