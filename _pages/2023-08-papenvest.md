@@ -50,7 +50,7 @@ In 2019 kwam het project van groep “TEAM +5”. In het nieuwe project worden 3
 
 In plaats van de 5 huidige woontorens, stelt het voorproject de bouw voor van 2 blokken van in totaal 335 wooneenheden waartussen een openbare ruimte en een socio-sportcentrum en een stadsboerderij voor de buurt komen
 
-De afbraakwerken zouden eind 2022 van start gaan maar de stedenbouwkundige vergunning laat op zich wachten door de klachten van omwonenden die naar bovenkwamen in het openbaar onderzoek. In 2016 voorspelde ??? <naam> dat de stedenbouwkundige vergunning in 2018 zou kunnen afgeleverd worden. We vijf jaar later en de betrokken partijen hebben nog geen zich op wanneer ze van start kunnen gaan met de afbraakwerken (check nog eens godrie). 
+De afbraakwerken zouden eind 2022 van start gaan maar de stedenbouwkundige vergunning laat op zich wachten door de klachten van omwonenden die naar bovenkwamen in het openbaar onderzoek. In 2016 voorspelde ??? «naam» dat de stedenbouwkundige vergunning in 2018 zou kunnen afgeleverd worden. We vijf jaar later en de betrokken partijen hebben nog geen zich op wanneer ze van start kunnen gaan met de afbraakwerken (check nog eens godrie). 
 
 
 
@@ -61,7 +61,7 @@ De afbraakwerken zouden eind 2022 van start gaan maar de stedenbouwkundige vergu
 ## afbraak en sociale mix 
 
 Godrie: “Met de Brusselse Woning willen we deze site al twintig jaar renoveren maar de financiële last was te groot voor ons alleen. De hulp van de Regie van de stad Brussel was voor ons de enige mogelijkheid om zo’n groot project op te starten.” 
-In ??? kwamen de Brusselse Woning en de Regie van de Stad Brussel tot een overeenkomst. De Regie zou <welk deel> van de kosten op zich nemen in ruil voor het beheer van xx <aantal> woningen in het nieuwe project. De twee spelers beslisten uiteindelijk dat het nieuwe project  In 2019 nog legitimeerden zowel toenmalig Schepen van Huisvesting Khalid Zian (PS) als de voorzitter van de Brusselse Woning Karim Tafranti het verlies van sociale woningen op de site door te verwijzen naar het belang van een “sociale mix” in de buurt. 
+In ??? kwamen de Brusselse Woning en de Regie van de Stad Brussel tot een overeenkomst. De Regie zou «welk deel» van de kosten op zich nemen in ruil voor het beheer van xx «aantal» woningen in het nieuwe project. De twee spelers beslisten uiteindelijk dat het nieuwe project  In 2019 nog legitimeerden zowel toenmalig Schepen van Huisvesting Khalid Zian (PS) als de voorzitter van de Brusselse Woning Karim Tafranti het verlies van sociale woningen op de site door te verwijzen naar het belang van een “sociale mix” in de buurt. 
 In maart 2021 legitimeerden Burgemeester Philip Close en Schepen van Huisvesting Lydia Mutyebele het verlies van sociale woningen op de site door te verwijzen naar het belang van een ‘sociale mix’ in de buurt. De komst van middenklassehuurders van de Regie zou ‘de sociale mix van de wijk versterken’, volgens Burgemeester Philip Close en Schepen van Huisvesting Lydia Mutyebele. 
 
 Sociale mix is het idee dat een mengeling van sociale groepen in stad, wijk of buurt wijk de meest kwetsbare bewoners van die stad, wijk of buurt ten goede komt. De aanwezigheid van middenklasse bewoners zou de helpen met de destigmatisering van een bepaalde buurt en door 
