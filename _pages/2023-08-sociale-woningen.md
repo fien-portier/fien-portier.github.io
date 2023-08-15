@@ -45,7 +45,7 @@ Antwerpen is het beste voobeeld. “‘t Stad” blijft al negen jaar hangen ron
 >[Kandidaat-huurders](https://www.vlaanderen.be/een-sociale-woning-huren-bij-een-woonmaatschappij/voorwaarden-voor-een-sociale-woning) moeten aan strenge eisen voldoen om recht te hebben op een sociale woning. Een alleenstaande mag maximaal 28.000 euro per jaar verdienen, met een verhoging van 2300 euro per persoon ten laste. Een kandidaat-huurder mag geen eigenaar zijn van een woning in België of in het buitenland. 
 > 
 > Naast de kandidaat-huurders is er nog een hele groep mensen die in theorie recht hebben op een sociale woning maar die niet op de wachtlijst staan. De discrepantie tussen het aantal sociale woningen en de nood eraan is dus waarschijnlijk nog groter dan weergegeven in de animatie.
-{:.block-warning }
+{:.block-tip }
 
 ## 'Sociale huurders kosten geld' 
 
