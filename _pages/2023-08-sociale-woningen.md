@@ -16,6 +16,8 @@ In het West-Vlaamse Oudenburg bijvoorbeeld was in 2012 slechts 1,07 procent van 
 <div style="min-height:386px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1oSsE/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1oSsE/full.png" alt="" /></noscript></div>
 
 
+
+
 De mediaan van het aandeel sociale woningen per Vlaamse gemeente is verschoven van 3.48 procent in 2012 naar 3.76 procent in 2021. In absolute cijfers goed voor 14.182 sociale woningen extra. Die stijging is echter marginaal wanneer we de [cijfers van het aantal kandidaat-sociale huurders](https://www.vlaanderen.be/sociaal-woonbeleid/cijfers/kandidaat-huurders-en-kopers) er naast leggen. In diezelfde periode (2012 tot 2021) nam de wachtlijst voor een sociale woning toe met 35.774 kandidaten.
 
 Eind 2021, een piekjaar,  wachtten in Vlaanderen maar liefst 182.436 kandidaat-huurders op een sociale woning. De wachtlijst daalde licht in 2022. Eind vorig jaar wachtten 176.026 gemiddeld 4,1 jaar op een sociale woning. De daling is voorzichtig positief te noemen maar staan er nog steeds meer kandidaten op de wachtlijst dan er sociale woningen zijn in Vlaanderen. 
