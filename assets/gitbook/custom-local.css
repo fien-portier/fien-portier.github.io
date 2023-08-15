@@ -1,4 +1,21 @@
-.page-inner .media-float {
+.markdown-section blockquote {
+    margin-bottom: 1.5em;
+}
+
+.markdown-section blockquote.block-intro {
+    background-color: #fcfcfc;
+    font-family: var(--font-family);
+    font-weight: bold;
+}
+.markdown-section .embed-wrap {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-top: 1px solid rgba(0,0,0,0.05);
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+
+.markdown-section .media-float {
     width: 30%; 
     max-width: 400px; 
     float: right; 
@@ -8,21 +25,21 @@
     margin: 5px;
 }
 
-.page-inner .media-band-300 {
+.markdown-section .media-band-300 {
     width:100%;
     height:300px;
     object-fit:cover;
     object-position: center center;
 }
 
-.page-inner .media-band-300.bottom {
+.markdown-section .media-band-300.bottom {
     object-position: center bottom;
 }
 
-.page-inner .media-band-300.top {
+.markdown-section .media-band-300.top {
     object-position: center top;
 }
 
-.page-inner h2 {
+.markdown-section h2 {
     clear:both;
 }

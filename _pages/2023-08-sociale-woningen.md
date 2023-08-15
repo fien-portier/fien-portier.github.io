@@ -6,13 +6,14 @@ cover: /assets/img/cover-papenvest-02.jpg
 
 
 > De bouw van sociale woningen is al decennialang een heikel punt in Vlaanderen. De cijfers van Wonen in Vlaanderen en de Stadsmonitor zijn onverbiddelijk: het aandeel sociale woningen in de centrumsteden bleef over bijna 10 jaar grotendeels gelijk, terwijl het aantal kandidaten op de wachtlijsten stijgt. 
+{:.block-intro}
 
 Ondanks beloftes van opeenvolgende Ministers van Wonen om meer sociale woningen te bouwen, is er in het afgelopen decennia nauwelijks iets veranderd op de sociale woningbouw. Pascal De Decker, professor aan de faculteit architectuur van de KU Leuven noemt de cijfers “het resultaat van decennialang non-beleid.”  
 De grafiek hieronder toont de verschuiving van het aandeel sociale woningen in alle Vlaamse steden en gemeentes over een tijdspanne van negen jaar. De gemeentes in het (licht)groen tonen een stijging t.o.v 2012, de gemeentes in het (licht)rood tonen een daling.
 In het West-Vlaamse Oudenburg bijvoorbeeld was in 2012 slechts 1,07 procent van alle woningen bestemd voor sociale huur. In 2021 was dat 4,14 procent. Daarmee is Oudenburg de sterkste stijger in Vlaanderen. Die cijfers steken desalniettemin mager af bij de 16,65 procent sociale woningen in Spiere-Helkijn aan de Franse grens.
 
 <!-- datawrapper embedding via iframe -->
-<div style="min-height:386px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1oSsE/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1oSsE/full.png" alt="" /></noscript></div>
+<div class="embed-wrap" style="min-height:386px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/1oSsE/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/1oSsE/full.png" alt="" /></noscript></div>
 
 De mediaan van het aandeel sociale woningen per Vlaamse gemeente is verschoven van 3.48 procent in 2012 naar 3.76 procent in 2021. In absolute cijfers goed voor 14.182 sociale woningen extra. Die stijging is marginaal wanneer we de cijfers van aantal kandidaat-sociale huurders er naast leggen. In diezelfde periode (van 2012 tot 2021) nam de wachtlijst voor een sociale woning toe met 35.774 kandidaat wachtenden.
 
@@ -26,14 +27,14 @@ Terwijl het aandeel sociale woningen het voorbije decennium amper wijzigde, word
 De onderstaande animatie toont de evolutie van het aandeel sociale woningen per centrumstad in relatie tot het aantal mensen op de wachtlijst voor een sociale woning. 
 
 <!-- flourish embedded animatie -->
-<div class="flourish-embed flourish-scatter" data-src="visualisation/14700639"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="embed-wrap flourish-embed flourish-scatter" data-src="visualisation/14700639"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 > ##### kandidaat-huurders voor een sociale woning
 > Kandidaat-huurders voor een sociale woning moeten aan strenge eisen voldoen om recht te hebben op een sociale woning. Een alleenstaande mag maximaal 28.000 euro per jaar verdienen, met een verhoging per persoon ten laste. Een kandidaat-huurder 
 > 
 > Maar er is nog een hele groep mensen die in aanmerking komen voor een sociale woning maar die niet op de wachtlijst staan. De discrepantie tussen het aantal sociale woningen en de nood eraan is dus nog groter dan weergegeven in de animatie.
-{:.block-warning }
+
 
 Antwerpen is het beste voobeeld. “‘t Stad” blijft al negen jaar hangen rond de negen procent sociale woningen (9,57% in 2012 naar 9,2% in 2021), terwijl het aantal kandidaten op de wachtlijst merkbaar stijgt (3,48% in 2012 naar 5,84% in 2021). Dat is een stijging van bijna 68 procent.
 
