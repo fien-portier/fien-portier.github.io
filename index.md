@@ -13,6 +13,8 @@ cover: /assets/img/cover-papenvest-01.jpg
 
 
 
+
+
 ## Fien Portier
 
 <!-- the {:style= "..." } suffix to the image can be replaced with {:.media-embed} as soon as this PR is accepted: 
@@ -22,8 +24,10 @@ cover: /assets/img/cover-papenvest-01.jpg
 
 
 
+
+
 > ##### Update: 
-> In het kader van de opleiding International Research Journalism hebben Laura Ortega Aranda en Fien Portier de sociale woonwijk de papenvest onder de loep genomen; daaruit volgde dit [onderzoeks-artikel](/pages/2023-08-sociale-woningen) en dit [dataverhaal](/pages/2023-08-papenvest).
+> In het kader van de opleiding International Research Journalism hebben Laura Ortega Aranda en Fien Portier de sociale woonwijk de papenvest onder de loep genomen; daaruit volgde dit [data-verhaal](/pages/2023-08-sociale-woningen) en dit [onderzoeks-artikel](/pages/2023-08-papenvest).
 {:.block-tip}
 
 ----
