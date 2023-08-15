@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Papenvest: een verhaal van meer dan tien jaar onzekerheid"
+title: "De Papenvest: een verhaal van meer dan tien jaar onzekerheid"
 cover: /assets/img/cover-papenvest-03.jpg
 ---
 
