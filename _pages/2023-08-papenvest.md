@@ -17,6 +17,8 @@ Valerie is 63 jaar oud en trotse oma van twee grappige meisjes van 4 en 9 jaar o
 
 Voor de meeste Brusselaars zijn de vijf blokken een bizar open site in een verder dichtbevolkte wijk, voor Valerie vormen de blokken de achtergrond van haar leven. “Ik ben hier komen wonen met mijn ouders in ‘65, direct toen ze afgewerkt waren.” De vijf woontorens huisden zo’n 850 sociale huurders in 314 sociale woningen; alleenstaande ouders, gezinnen, nieuwkomers en autochtonen. ‘Het was hier altijd een grote mengelmoes, een hechte, levendige gemeenschap in het hartje van Brussel’, vertelt Riet Dhont, gemeenteraadslid in Brussel voor de PVDA-PTB. 
 
+![Papenvest #01](/assets/content/papenvest/papenvest-01.jpg){:style="width:100%; height:300px;object-fit:cover;"}
+
 Tot voor kort dan toch want momenteel zijn drie van de vijf torens onbewoond. “De overige twee torens zijn voor zo’n 24 procent bewoond”, vertelt Lionel Godrie, Algemeen Directeur van de Brusselse Woning, de openbare vastgoedmaatschappij die de woningen op de Papenvestsite beheert. “Soms zijn mensen helemaal alleen op een verdieping, dan voorzien we extra bewaking voor de bewoners.”
 
 Waarom deze volksverhuis? De befaamde torens zullen binnenkort verdwijnen. Op 30 juni 2016 stemde de Gemeenteraad voor de afbraak op basis van een technische audit gefinancierd door Beliris. Het persbericht verantwoordt de keuze van de Gemeenteraad door te verwijzen naar de slechte staat van de blokken en schrijft dat ‘de achterhaalde bouwvorm’ en het gebrek aan isolatie “een bron van hinder, ongezondheid en ongemak” zijn voor de bewoners. 
@@ -35,6 +37,7 @@ Godrie legt uit: ‘we proberen de blokken
 Zo werden de Papenvestblokken stille getuigen van het absolute gebrek aan politieke aandacht voor sociale woningbouw in de voorbije vijftig jaar.
 
 
+![Papenvest #01](/assets/content/papenvest/papenvest-03.jpg){:style="width:100%; height:300px;object-fit:cover;object-position: center top"}
 
 
 ### ...wachten op de stedenbouwkundige vergunning
@@ -109,7 +112,7 @@ wat is de logica om daar een tweede
 
 ### Keuze om de grondregie te betrekken (aan gesocialiseerde prijzen dus wat is de logica???) 
 
-Gemeenteraad 20 maart opgevraagd. 
+[Beslissing Gemeenteraad 20 maart](/assets/content/papenvest/20100617-beslissing-college-Papenvest151.pdf){:target="_blank"} opgevraagd. 
 
 Eerst een logica van sociale mix → nu gesocialiseerde huurprijzen. bewijs dat er weinig lijn in te trekken is allemaal
 
