@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Het aandeel sociale woningen in de centrumsteden daalt, de sociale nood explodeert.
-cover: /assets/img/cover-bouwblok-04-orto.jpg
+cover: /assets/img/cover-papenvest-02.jpg
 ---
 
 

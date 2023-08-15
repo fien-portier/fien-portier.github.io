@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Focus: het verhaal van de vijf blokken"
-cover: /assets/img/cover-bouwblok-04.jpg
+cover: /assets/img/cover-papenvest-03.jpg
 ---
 
 <!-- https://docs.google.com/document/d/1v7mF8Je31Gry3iANnQe1lxYKwVoIIpPG81p2TU3-r1U/edit?usp=sharing -->

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Auteurs
-cover: /assets/img/cover-bouw-blok-03.jpg
+cover: /assets/img/cover-papenvest-01.jpg
 ---
 
 ## Fien Portier
