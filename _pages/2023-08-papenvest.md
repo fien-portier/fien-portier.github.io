@@ -60,7 +60,7 @@ Maar hoe serieus was dit argument dan in de eerste plaats? In oktober 2022, toen
 
 
 De Brusselse Woning is erg tevreden met de beslissing van het stadsbestuur: ‘Ik ben fier dat ik mag werken in een stad die zoveel doet voor sociale woningen. De maatregel is een stapje richting een kortere wachtlijst’, aldus Godrie. De wachtlijst van de kandidaat-huurders in het Brussels Gewest is al decennialang een heikel punt. En van alle gemeenten in het Gewest is de sociale woonnood in de Stad Brussel het meest nijpend. 
-Volgens cijfers van de BGHM wachten er 29.174 personen op een sociale woning in Stad Brussel. Dat is ongeveer 55 procent van het totaal aantal kandidaat-huurders in het Brussels Gewest terwijl slechts 11 procent van het totale aantal inwoners van het gewest in postcode 1000 leeft.  
+Volgens [cijfers van de BGHM](/assets/content/papenvest/cijfers-sociale-woningen-bghm-email.png){:target="_blank"} wachten er 29.174 personen op een sociale woning in Stad Brussel. Dat is ongeveer 55 procent van het totaal aantal kandidaat-huurders in het Brussels Gewest terwijl slechts 11 procent van het totale aantal inwoners van het gewest in postcode 1000 leeft.  
 
 De stap om de huurprijzen te socialiseren wordt over het algemeen dus zeker toegejuicht, toch zijn er nog enkele vraagtekens. ‘Ik ben an sich voorstander van gesocialiseerde huur', zegt ook gemeenteraadslid Riet Dhondt. ‘Maar het maakt het beleid rond sociale woningen wel nog complexer. En daarbij, stel dat in 2024 de MR aan de macht komt, wie garandeert dat de gesocialiseerde huur behouden kan blijven?’ 
 
